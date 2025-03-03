@@ -3,7 +3,7 @@
 
 ## Apenas alguns exercícios que foram exigidos durante uma das aulas de Desenvolvimento Mobile na minha faculdade!
 
-# Não esquece de ter o java instalado na sua máquina para executar os programas!
+# Não esqueca de ter o java instalado na sua máquina para executar os programas!
 ## Abra o terminal no seu computador, e digite <java --version> para verificar se o java está instalado corretamente na sua máquina.
 ## Instale também o JDK, caso queria modificar alguma coisa no código
 
