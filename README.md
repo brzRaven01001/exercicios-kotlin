@@ -7,5 +7,5 @@
 ## Abra o terminal no seu computador, e digite <java --version> para verificar se o java está instalado corretamente na sua máquina.
 ## Instale também o JDK, caso queria modificar alguma coisa no código
 
-JDK - https://www.oracle.com/br/java/technologies/downloads/#java23
-Java - https://www.java.com/pt-BR/download/ie_manual.jsp?locale=pt_BR
+# JDK - https://www.oracle.com/br/java/technologies/downloads/#java23
+# Java - https://www.java.com/pt-BR/download/ie_manual.jsp?locale=pt_BR
